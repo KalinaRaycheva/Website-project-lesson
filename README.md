@@ -1,2 +1,2 @@
-# Website-projects
+# Website-project
 Repository for building websites 
